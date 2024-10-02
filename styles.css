@@ -9,3 +9,9 @@ h1 {
 .inicio {
     margin-top: 15%;
 }
+
+button {
+    margin: auto;
+    text-align: center;
+    margin-left: 15%;
+}

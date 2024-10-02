@@ -1,5 +1,17 @@
+h1 {
+  text-align: center;
+  padding-top: 0px;
+  padding-right: 100px;
+  padding-bottom: 0px;
+  padding-left: 100px;
+}
 
 .inicio {
   margin-top: 15%;
-  text-align: center
+}
+
+button {
+  display: flex;
+  margin: auto;
+  padding: 3px;
 }
